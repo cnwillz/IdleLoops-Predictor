@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name         IdleLoops Predictor
-// @namespace    https://github.com/Koviko/
-// @version      1.3.6
+// @name         IdleLoops Predictor v.94
+// @namespace    https://github.com/cnwillz/
+// @version      1.3.6.1
 // @description  Predicts the amount of resources spent and gained by each action in the action list. Valid as of IdleLoops v.77.
-// @author       Koviko <koviko.net@gmail.com>
+// @author       Koviko <koviko.net@gmail.com> Willz <wzszwj2018@gmail.com>
 // @website      http://koviko.net/
-// @match        *://stopsign.github.io/idleLoops/*
+// @match        *://likexia.gitee.io/omsi6/loops/*
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
